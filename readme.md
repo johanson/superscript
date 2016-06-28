@@ -1,6 +1,6 @@
 # SUPERSCRIPT for Pelican
 
-Superscript for [Pelican](https://github.com/getpelican/pelican) finds ordinals ( 1st, 2nd, 3rd, 4th etc.) in the content and wraps them with an element(s) for better typography.
+Superscript for [Pelican](https://github.com/getpelican/pelican) finds ordinals (1st, 2nd, 3rd, 4th etc.) in the content and wraps them with an element(s) for better typography.
 
 ## Usage
 
